@@ -1,3 +1,3 @@
 # Sorting-Algorithms
 
-*Algorithms of all types of sorting.
+* Algorithms of all types of sorting.
