@@ -3,7 +3,7 @@
 *Algorithms of all types of sorting.*
 
 * Bubble_sort.java
-* 
+
 * Bucket_sort.java
 * Cocktail_sort.java
 * Comb_sort.java
