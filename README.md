@@ -30,10 +30,10 @@
 
 
 | *Sorting Algorithm* |*Time Complexity - Best* |*Time Complexity - Worst* |*Time Complexity - Average* |*Space Complexity* |
-| -------------       |:-------------:          | :-----:                   | :-------------:              |:-------------:    |
+| -------------       |:-------------:          | :-----:                  | :-------------:            |:-------------     |
 | **Bubble Sort**     |   n                     |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
-| **Selection Sort**  |   n<sup>2</sup>         |  n<sup>2</sup>           |  n<sup>2</sup>             | 1| 
-| **Insertion Sort**  |   n                     |  n<sup>2</sup>           |  n<sup>2</sup>             | 1| 
+| **Selection Sort**  |   n<sup>2</sup>         |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
+| **Insertion Sort**  |   n                     |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
 | **Merge Sort**      |   nlog n                |                 |       | | |
 | **Quicksort**       |   nlog n                |                 |       | | |
 | **Counting Sort**   |   n+k                   |                 |       | | |
