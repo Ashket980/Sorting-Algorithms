@@ -26,7 +26,7 @@
 
 ---
 
-### Let's see a complexity analysis of different sorting algorithms.
+## Let's see a complexity analysis of different sorting algorithms.
 
 
 | *Sorting Algorithm* |*Time Complexity - Best* |*Time Complexity - Worst* |*Time Complexity - Average* |*Space Complexity* |
