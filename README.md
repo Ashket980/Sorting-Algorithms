@@ -30,14 +30,14 @@
 
 
 | *Sorting Algorithm* |*Time Complexity - Best* |*Time Complexity - Worst* |*Time Complexity - Average* |*Space Complexity* |
-| -------------       |:-------------:        | -----:                 | -------------            |:-------------:  |
-| **Bubble Sort**     |   n     |                 |       | | |
-| **Selection Sort**  |    O(n<sup>2</sup>)   |                 |       | | |
-| **Insertion Sort**  |        |                 |       | | |
-| **Merge Sort**      |        |                 |       | | |
-| **Quicksort**       |        |                 |       | | |
-| **Counting Sort**   |        |                 |       | | |
-| **Radix Sort**      |        |                 |       | | |
-| **Bucket Sort**     |        |                 |       | | |
-| **Heap Sort**       |        |                 |       | | |
-| **Shell Sort**      |        |                 |       | | |
+| -------------       |:-------------:          | -----:                 | -------------            |:-------------:  |
+| **Bubble Sort**     |   n                     |                 |       | | |
+| **Selection Sort**  |    n<sup>2</sup>        |                 |       | | |
+| **Insertion Sort**  |      n  |                 |       | | |
+| **Merge Sort**      |      nlog n  |                 |       | | |
+| **Quicksort**       |      nlog n  |                 |       | | |
+| **Counting Sort**   |      n+k  |                 |       | | |
+| **Radix Sort**      |      n+k  |                 |       | | |
+| **Bucket Sort**     |       n+k |                 |       | | |
+| **Heap Sort**       |    nlog n    |                 |       | | |
+| **Shell Sort**      |     nlog n   |                 |       | | |
