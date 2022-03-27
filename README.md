@@ -34,8 +34,8 @@
 | **Bubble Sort**     |   n                     |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
 | **Selection Sort**  |   n<sup>2</sup>         |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
 | **Insertion Sort**  |   n                     |  n<sup>2</sup>           |  n<sup>2</sup>             | 1                 | 
-| **Merge Sort**      |   nlog n                |  nlog n                  |  nlog n                    |                   |
-| **Quicksort**       |   nlog n                |  n<sup>2</sup>           |  nlog n                    | nlog n            |
+| **Merge Sort**      |   nlog n                |  nlog n                  |  nlog n                    | n                 |
+| **Quicksort**       |   nlog n                |  n<sup>2</sup>           |  nlog n                    | log n             |
 | **Counting Sort**   |   n+k                   |                 |       | | |
 | **Radix Sort**      |   n+k                   |                 |       | | |
 | **Bucket Sort**     |   n+k                   |                 |       | | |
