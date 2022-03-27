@@ -24,3 +24,9 @@
 * Strand_sort.java
 * Tim_sort.java
 
+
+| Sorting Algorithm |Time Complexity - Best |Time Complexity - Worst |Time Complexity - Average |Space Complexity |
+| -------------     |:-------------:        | -----:                 | -------------            |:-------------:  |
+|        |        |                 |       | | |
+
+
