@@ -31,8 +31,8 @@
 
 | *Sorting Algorithm* |*Time Complexity - Best* |*Time Complexity - Worst* |*Time Complexity - Average* |*Space Complexity* |
 | -------------       |:-------------:        | -----:                 | -------------            |:-------------:  |
-| **Bubble Sort**     |        |                 |       | | |
-| **Selection Sort**  |        |                 |       | | |
+| **Bubble Sort**     |   n     |                 |       | | |
+| **Selection Sort**  |    O(n<sup>2</sup>)   |                 |       | | |
 | **Insertion Sort**  |        |                 |       | | |
 | **Merge Sort**      |        |                 |       | | |
 | **Quicksort**       |        |                 |       | | |
