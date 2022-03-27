@@ -38,7 +38,7 @@
 | **Quicksort**       |   nlog n                |  n<sup>2</sup>           |  nlog n                    | log n             |
 | **Counting Sort**   |   n+k                   |  n+k                     |  n+k                       | Max               |
 | **Radix Sort**      |   n+k                   |  n+k                     |  n+k                       | Max               |
-| **Bucket Sort**     |   n+k                   |                 |       | |
-| **Heap Sort**       |   nlog n                |                 |       | |
-| **Shell Sort**      |   nlog n                |                 |       | |
+| **Bucket Sort**     |   n+k                   |  n<sup>2</sup>                |    n   | n+k|
+| **Heap Sort**       |   nlog n                |  nlog n               |  nlog n     | 1|
+| **Shell Sort**      |   nlog n                |  n<sup>2</sup>               |    nlog n   |1 |
  
