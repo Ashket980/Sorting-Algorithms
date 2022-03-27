@@ -30,7 +30,7 @@
 
 
 | *Sorting Algorithm* |*Time Complexity - Best* |*Time Complexity - Worst* |*Time Complexity - Average* |*Space Complexity* |
-| -------------       |:-------------:          | -----:                 | -------------            |:-------------:  |
+| -------------       |:-------------:          | -----:                   | -------------              |:-------------:    |
 | **Bubble Sort**     |   n                     |                 |       | | |
 | **Selection Sort**  |   n<sup>2</sup>         |                 |       | | |
 | **Insertion Sort**  |   n                     |                 |       | | |
